@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="red_blue.png" alt="Easi SOC" width="300">
+  <img src="logo.png" alt="Easi SOC" width="300">
 </p>
 
 <h3 align="center">Easi Security Projects and Resources</h3>
