@@ -11,7 +11,3 @@
 ## About
 
 This organization is the home of the engineering work of the Easi SOC: detection content, tooling, automation and documentation that support our security monitoring services. 
-
-## Contact
-
-Easi SOC - soc@fake.plshelp
